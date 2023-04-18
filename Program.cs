@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.Write("Por favor, escriba su nombre: ");
+Console.Write("Por favor, escriba su nombre ");
 var nombre = Console.ReadLine();
 int longitudNombre = nombre.Length;
 
